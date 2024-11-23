@@ -1,9 +1,5 @@
 # Library API Documentation
 
-## Overview
-
-The Library API is a RESTful service that provides functionality for managing books, authors, and their associations within a library system. It supports operations such as registering users, authenticating them, adding books, managing authors, and associating books with authors. The API uses JWT (JSON Web Token) for secure user authentication and token management.
-
 ### Core Features
 - User Management: Registering, authenticating, updating, and deleting users
 - Author Management: Registering, updating, deleting, and listing authors
